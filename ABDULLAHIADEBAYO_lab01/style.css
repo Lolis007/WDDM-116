@@ -26,3 +26,13 @@ button{
 button:hover{
     background-color: #0fe999;
 }
+h1 { 
+   margin: 2 auto;
+    text-align: center ;
+    
+}
+.description{
+   margin-top: -10px;
+    text-align: right;
+    
+}
