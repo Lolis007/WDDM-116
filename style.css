@@ -12,3 +12,9 @@ img{
     grid-template-columns: 1fr;
     grid-template-rows: 6rem 3rem 3rem 1fr;
 }
+/**Centering the image**/
+.productPic{
+    grid-column: 1/-1;
+    grid-row: 2/4;
+    padding: 0 24;
+}
