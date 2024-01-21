@@ -11,7 +11,8 @@ img{
     margin: auto;
     max-width: 50%;
     height: auto;
-    border-radius: 8%;
+    height: 300px;
+    border-radius: 3%;
 }
 button{ 
     padding: 15px 32px;
