@@ -1,12 +1,7 @@
 body{
     background-color:paleturquoise;
 }
-img{
-    display: block;
-    margin: auto;
-    max-width: 50%;
-    height: auto;
-}
+
 .container{
     display: grid;
     grid-template-columns: 1fr;
@@ -17,4 +12,15 @@ img{
     grid-column: 1/-1;
     grid-row: 2/4;
     padding: 0 24;
+}
+.productPic img{
+    height:100%;
+    aspect-ratio: 1/1.5;
+    border-radius: 10%;
+}
+.aboutMe{
+    grid-row: 4/5;
+    grid-column: 1/-1;
+    padding: 24px;
+    text-align: center;
 }
