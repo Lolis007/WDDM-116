@@ -23,4 +23,6 @@ body{
     grid-column: 1/-1;
     padding: 24px;
     text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
 }
