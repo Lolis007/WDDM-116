@@ -1,0 +1,22 @@
+body{
+    background-color:paleturquoise;
+}
+img{
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+}
+button{ 
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color:rgb(253, 202, 37);
+    display: inline-block;
+    margin-left: 43%;
+    transition-duration: 0.4s;
+}
+button:hover{
+    background-color: #0fe999;
+}
