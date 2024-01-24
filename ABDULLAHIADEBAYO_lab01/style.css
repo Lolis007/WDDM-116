@@ -13,7 +13,7 @@ img{
     height: 300px;
     border-radius: 3%;
 }
-button{ 
+.submit{ 
     padding: 15px 32px;
     text-align: center;
     font-size: 15px;
@@ -23,7 +23,7 @@ button{
     margin-left: 40%;
     transition-duration: 0.4s;
 }
-button:hover{
+.submit:hover{
     background-color: #0fe999;
 }
 h1 { 
