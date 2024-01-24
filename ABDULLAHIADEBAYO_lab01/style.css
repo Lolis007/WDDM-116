@@ -28,7 +28,8 @@ button:hover{
 }
 h1 { 
    margin: 2 auto;
-    text-align: center ;
+    text-align: center;
+    color: chocolate;
     
 }
 .description{
