@@ -80,3 +80,9 @@ form{
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+header li {
+    margin-left: 200px;
+    margin-top: 5px;
+    display: inline-block;
+}
